@@ -1,0 +1,66 @@
+MFile 1 11 240
+MTrk
+0:0:0 TimeSig 4/4 24 8
+0:0:0 Tempo 526316
+0:0:0 Meta TrkEnd
+TrkEnd
+MTrk
+0:0:0 Meta Text "Hand Clap"
+TrkEnd
+MTrk
+0:0:0 Meta Text "Cowbell"
+TrkEnd
+MTrk
+0:0:0 Meta Text "Closed hat"
+0:0:0 On ch=10 n=42 v=64
+0:0:60 Off ch=10 n=42 v=64
+0:0:120 On ch=10 n=42 v=64
+0:0:180 Off ch=10 n=42 v=64
+0:1:120 On ch=10 n=42 v=64
+0:1:180 Off ch=10 n=42 v=64
+0:2:0 On ch=10 n=42 v=64
+0:2:60 Off ch=10 n=42 v=64
+0:2:120 On ch=10 n=42 v=64
+0:2:180 Off ch=10 n=42 v=64
+0:3:120 On ch=10 n=42 v=64
+0:3:180 Off ch=10 n=42 v=64
+TrkEnd
+MTrk
+0:0:0 Meta Text "Open hat"
+0:1:0 On ch=10 n=44 v=64
+0:1:60 Off ch=10 n=44 v=64
+0:3:0 On ch=10 n=44 v=64
+0:3:60 Off ch=10 n=44 v=64
+TrkEnd
+MTrk
+0:0:0 Meta Text "High tom"
+TrkEnd
+MTrk
+0:0:0 Meta Text "Mid tom"
+TrkEnd
+MTrk
+0:0:0 Meta Text "Low tom"
+TrkEnd
+MTrk
+0:0:0 Meta Text "Snare drum"
+0:1:0 On ch=10 n=38 v=64
+0:1:60 Off ch=10 n=38 v=64
+0:3:0 On ch=10 n=38 v=64
+0:3:60 Off ch=10 n=38 v=64
+TrkEnd
+MTrk
+0:0:0 Meta Text "Bass drum"
+0:0:0 On ch=10 n=36 v=64
+0:0:60 Off ch=10 n=36 v=64
+0:1:0 On ch=10 n=36 v=64
+0:1:60 Off ch=10 n=36 v=64
+0:2:0 On ch=10 n=36 v=64
+0:2:60 Off ch=10 n=36 v=64
+0:3:0 On ch=10 n=36 v=64
+0:3:60 Off ch=10 n=36 v=64
+TrkEnd
+MTrk
+0:0:0 Meta Text "(c)joelSampson"
+0:0:0 PoPr ch=1 n=60 v=64
+0:0:0 Meta TrkEnd
+TrkEnd
